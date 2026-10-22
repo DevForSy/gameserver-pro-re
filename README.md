@@ -1,4 +1,4 @@
-# GameServer Pro — reverse engineering notes
+# GameServer Pro reverse engineering notes
 
 Independent **static** analysis notes for **GameServer Pro 1.0.2** (Windows desktop app from the PolarWoIF release channel).
 
