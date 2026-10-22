@@ -33,7 +33,7 @@ During static analysis of `electron/license.jsc`, a **Firebase service-account p
 
 See `docs/SECURITY_NOTES.md` for impact and vendor recommendations (rotate/revoke the key; do not ship admin credentials in desktop clients).
 
-## High-level architecture
+## High level architecture
 
 - **Installer:** NSIS → Electron app (`GameServer Pro.exe`)
 - **UI:** React / Vite (`dist/`)
