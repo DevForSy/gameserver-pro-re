@@ -1,0 +1,132 @@
+ipcMain
+runCommand
+runPowerShell
+parseNetstath
+RbzN_5
+@SdDpW
+stdout
+stderr
+Rb^x3N
+(SdDpW
+evalmachine.<anonymous>
+(SdDpW
+(SdDpW
+(SdDpW
+process
+platform
+HSdDpW
+powershell.exe
+-NoProfile
+-Command`
+(SdDpW
+(SdDpW
+Exited with code 
+(SdDpW
+8SdDpW
+Rb2MH.
+netstat
+(SdDpW
+0SdDpW
+LISTENING
+LISTEN
+0.0.0.0
+(SdDpW
+(SdDpW
+handle
+security:scan
+processes
+networkInterfaces
+radmin
+family
+(SdDpW
+address
+Get-Process | Select-Object Id, ProcessName | ConvertTo-Json -Compress
+ProcessName
+(SdDpW
+Failed to parse processes:
+pid,comm
+(SdDpW
+          $rules = Get-NetFirewallRule -Direction Inbound -Action Allow -Enabled True -ErrorAction SilentlyContinue
+          $filters = Get-NetFirewallPortFilter -ErrorAction SilentlyContinue
+          $result = @()
+          foreach ($rule in $rules) {
+              $filter = $filters | Where-Object { $_.InstanceID -eq $rule.Name } | Select-Object -First 1
+              if ($filter) {
+                  $result += @{
+                      Name = $rule.Name
+                      DisplayName = $rule.DisplayName
+                      LocalPort = $filter.LocalPort
+                      Protocol = $filter.Protocol
+                  }
+              }
+          }
+          $result | ConvertTo-Json -Compress
+        
+Failed to get firewall rules:
+Unknown
+Rd.4.V	
+LocalPort
+(SdDpW
+Local connection only or safe game server
+No impact
+127.0.0.1
+Remote Desktop (RDP)
+impact
+Prevents remote control of this PC from network.`z
+SMB / File Sharing
+Prevents sharing files over network, improving security.`
+Core network service, usually internal. Blocking might break local network features.`*
+Prevents file transfers from external networks.
+Telnet
+Prevents unencrypted remote shell access.
+PalServer-Win64-Shipping-Cmd
+PalServer
+ArkAscendedServer
+ShooterGameServer
+playit
+Game server or authorized tunnel (Required for players to join).
+Players will disconnect if blocked.
+danger
+ is open to external networks (e.g. Radmin)! Highly vulnerable.
+svchost
+System
+warning
+Third-party service listening externally.
+Will block 
+ from receiving external network traffic.
+ruleNameC
+ruleId
+DisplayName
+(SdDpW
+radminIpC
+results
+(SdDpY
+security:fix
+rulesToDisable
+getPath
+userData
+homedir
+gameserver-pro
+firewall_backups
+mkdirSync
+recursive
+fw_backup_
+writeFileSync
+(SdDpW
+^[a-zA-Z0-9_\-\{\}]+$
+(SdDpW
+Disable-NetFirewallRule -Name "
+" -ErrorAction SilentlyContinue
+(SdDpW
+RcZD`8
+Buffer
+Rcb|"h
+utf16le
+base64
+Start-Process powershell -ArgumentList '-NoProfile -WindowStyle Hidden -EncodedCommand 
+' -Verb RunAs -Wait
+Fixed issues. Backups saved locally.
+(SdDpX
+registerSecurityHandlers`
+electron
+child_process

@@ -1,0 +1,143 @@
+SSDP_ADDR
+SSDP_PORT
+SEARCH_TARGETS
+getPrimaryLocalIP
+discoverGateway
+fetchServiceDetails
+sendSoapAction
+fetchPublicIPFallback
+activePortMappings
+networkInterfaces
+virtual
+vmware
+hamachi
+radmin
+loopback
+family
+internal
+address
+192.168.
+127.0.0.1
+$RgZ6>
+evalmachine.<anonymous>
+timeoutMs
+PSdDpW
+socket
+resolved
+cleanup
+createSocket
+(SdDpW
+(SdDpW
+(SdDpW
+LOCATION:\s*([^\r\n]+)
+(SdDpW
+setBroadcast
+Buffer
+M-SEARCH * HTTP/1.1
+HOST: 
+MAN: "ssdp:discover"
+(SdDpW
+locationUrl
+0SdDpW
+hostnameC
+timeout
+pathname
+0SdDpW
+(SdDpW
+<serviceType>(urn:schemas-upnp-org:service:WAN(?:IP|PPP)Connection:[^<]+)<\/serviceType>[\s\S]*?<controlURL>([^<]+)<\/controlURL>
+http://
+https://
+protocol
+serviceType
+controlURL
+(SdDpW
+(SdDpW
+destroy
+(SdDpW
+action
+argsXml
+0SdDpW
+<?xml version="1.0" encoding="utf-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <s:Body>
+    <u:
+ xmlns:u="
+      
+    </u:
+  </s:Body>
+</s:Envelope>
+request
+method
+headers
+Rd&gv(
+Content-Type
+text/xml; charset="utf-8"
+SOAPAction
+Content-Length
+8SdDpW
+resData
+(SdDpW
+statusCode
+(SdDpW
+(SdDpW
+SOAP timeoutj
+(SdDpW
+8SdDpW
+settled
+api.ipify.org
+/?format=json
+parser
+(SdDpW
+icanhazip.com
+(SdDpW
+ifconfig.me
+(SdDpW
+User-Agent
+GameServerPro/1.0
+8SdDpW
+(SdDpW
+^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$
+(SdDpW
+(SdDpW
+(SdDpW
+(SdDpW
+cachedGateway
+cachedPublicIP
+lastCheckedTime
+UPnPManager
+getService
+GameServer Pro
+RcR9:E
+success
+Invalid port number
+<NewRemoteHost></NewRemoteHost>
+<NewExternalPort>
+</NewExternalPort>
+<NewProtocol>
+</NewProtocol>
+<NewInternalPort>
+</NewInternalPort>
+<NewInternalClient>
+</NewInternalClient>
+<NewEnabled>1</NewEnabled>
+<NewPortMappingDescription>
+</NewPortMappingDescription>
+<NewLeaseDuration>0</NewLeaseDuration>
+AddPortMapping
+getPublicIP
+upnpActive
+routerFound
+publicIPC
+localIP
+openPort`
+</NewProtocol>
+DeletePortMapping
+closePort
+ Rf._#
+GetExternalIPAddressI
+<NewExternalIPAddress>([^<]+)<\/NewExternalIPAddress>
+239.255.255.250
+urn:schemas-upnp-org:service:WANIPConnection:1
+urn:schemas-upnp-org:service:WANPPPConnection:1
+urn:schemas-upnp-org:device:InternetGatewayDevice:1
+upnpManager

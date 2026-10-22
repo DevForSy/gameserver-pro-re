@@ -1,0 +1,97 @@
+ipcMain
+electron
+rcon-client
+HSdDpW
+findArkGUS
+executeRconCommand
+sanitizeTarget
+sanitizeCommand
+ShooterGame
+Config
+WindowsServer
+GameUserSettings.ini
+Windows
+WindowsNoEditor
+LinuxServer
+existsSync
+(SdDpW
+evalmachine.<anonymous>
+127.0.0.1
+passwordC
+timeout
+Rbjy2I
+(SdDpW
+socket
+(SdDpW
+_socket
+(SdDpW
+connect
+(SdDpW
+(SdDpW
+responseC
+$Rgb6|
+RCON connection error
+(SdDpY
+gameType
+installPath
+opsList
+whitelist
+banlist
+players
+ark_se
+readFileSync
+ServerAdminPassword=(.*)
+RCONPort=(\d+)
+minecraft
+server.properties
+^rcon\.password=(.*)$
+^rcon\.port=(\d+)$
+Missing RCON port or password
+ShowPlayers
+listplayers
+ops.json
+(SdDpW
+whitelist.json
+(SdDpW
+banned-players.json
+(SdDpW
+(SdDpW
+steamId
+Rc2b9)
+Online
+isWhitelisted
+isBannedC
+OP (Admin)
+Player
+(SdDpW
+^\d+\.\s*
+(SdDpX
+[^a-zA-Z0-9_\-\.]
+(SdDpW
+[\r\n]+
+(SdDpW
+Invalid target identifier
+KickPlayer 
+(SdDpX
+BanPlayer 
+(SdDpX
+pardon 
+Unban not supported via generic RCON for this game
+(SdDpX
+playerName
+Invalid player name
+OP command is only for Minecraft
+(SdDpX
+DEOP command is only for Minecraft
+(SdDpX
+command
+Empty command
+(SdDpX
+handle
+rcon:getPlayers
+rcon:kickPlayer
+rcon:banPlayer
+rcon:unbanPlayer
+rcon:opPlayer
+rcon:deopPlayer
+rcon:command

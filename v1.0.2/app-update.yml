@@ -1,0 +1,4 @@
+owner: PolarWoIF
+repo: gameserver-pro-releases
+provider: github
+updaterCacheDirName: gameserver-pro-updater

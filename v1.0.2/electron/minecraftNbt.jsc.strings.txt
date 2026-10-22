@@ -1,0 +1,31 @@
+NBTReader
+existsSync
+readFileSync
+gunzipSync
+inflateSync
+parseMinecraftNBT
+evalmachine.<anonymous>
+MAX_DEPTH
+MAX_ARRAY_LEN
+NBT buffer underflow: requested 
+ bytes at offset 
+ensureRemaining
+readInt8
+readByte`
+readInt16BE
+readShort
+readInt32BE
+readInt
+readBigInt64BE
+readLong`
+readFloatBE
+readFloat
+readDoubleBE
+readDouble
+readByteArray
+readString
+readTagPayload
+readList`
+readCompound`
+readIntArray`
+readLongArray

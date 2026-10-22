@@ -1,0 +1,14 @@
+cachedHwid
+Unknown_CPU
+hostname
+Unknown_User
+userInfo
+username
+createHash
+sha256
+update
+digest
+Failed to generate HWID:
+FALLBACK_HWID
+getHardwareId
+evalmachine.<anonymous>

@@ -1,0 +1,177 @@
+ipcMain
+BrowserWindow
+SIGNALING_SERVERS
+currentHostCode
+currentHostPort
+MAX_P2P_SOCKETS
+clientServers
+clientTcpSockets
+hostTcpSockets
+getMainWindow
+normalizeCode
+createMqttClientm
+getAllWindows
+evalmachine.<anonymous>
+[^a-zA-Z0-9]
+generateVirtualIp
+connect
+clientIdC
+connectTimeout
+reconnectPeriod
+keepalive
+sigHostMqtt
+sigClientMqtt
+initP2pProxy`
+handle
+p2p:signaling-host-start
+cleanCode
+rawCode
+hostCode
+{rZE74
+ (raw: 
+removeAllListeners
+HSdDpW
+resolved
+safeResolve
+client
+(SdDpW
+gsp_sh_
+gspro/p2p/
+subscribe
+(SdDpW
+(SdDpW
+socketId`
+[^a-zA-Z0-9_-]
+destroyed
+[P2P Host] Dropping incoming connection: MAX_P2P_SOCKETS reached (
+ -> 127.0.0.1:
+127.0.0.1
+setNoDelay
+setKeepAlive
+connected
+publish
+(SdDpW
+/h2c_close/
+Buffer
+(SdDpW
+[P2P Host][Legacy] socket error (
+(SdDpW
+/c2h_close/
+destroy
+peerId
+DISCOVERY
+/client/
+HOST_READY
+isDestroyed
+webContents
+p2p:signaling-host-msg
+(SdDpW
+[P2P Signaling Host] Error:
+(SdDpW
+(SdDpW
+(SdDpX
+p2p:signaling-host-send
+payload
+(SdDpV
+p2p:signaling-host-stream-send
+isBuffer
+(SdDpV
+,Rin,Se
+p2p:signaling-host-stream-close
+(SdDpV
+p2p:signaling-host-stop
+(SdDpY
+(RhB#&
+p2p:signaling-client-start
+, peer: 
+HSdDpW
+(SdDpW
+gsp_sc_
+/h2c/+
+/h2c_close/+
+{R*mG4
+(SdDpW
+(SdDpW
+p2p:signaling-client-msg
+(SdDpW
+[P2P Signaling Client] Error:
+(SdDpW
+(SdDpW
+(SdDpX
+p2p:signaling-client-send
+(SdDpV
+p2p:signaling-client-stream-send
+(SdDpV
+p2p:signaling-client-stream-close
+(SdDpV
+p2p:signaling-client-stop
+(SdDpY
+p2p:host-data-send
+8SdDpV
+totalServerBytes`
+[TCP][HOST] Dropping connection: MAX_P2P_SOCKETS reached (
+[TCP][HOST] Minecraft Server -> DataChannel: 
+ bytes (Total: 
+p2p:host-data-received:
+(SdDpW
+[TCP][HOST] Local Minecraft Server closed socket 
+p2p:host-socket-closed:
+(SdDpW
+[TCP][HOST] Local Minecraft Server socket error (
+(SdDpW
+p2p:host-socket-close
+(SdDpV
+p2p:start-client-server
+0SdDpX
+startListening
+(SdDpW
+(SdDpW
+0SdDpW
+portToTry
+8SdDpW
+server
+createServer
+@SdDpW
+totalClientBytesb
+p2p:client-socket-connected:
+[TCP][GUEST] Minecraft Client -> DataChannel: 
+p2p:client-data-received:
+(SdDpW
+[TCP][GUEST] Minecraft client closed socket 
+p2p:client-socket-closed:
+(SdDpW
+[TCP][GUEST] Minecraft client socket error (
+(SdDpW
+[TCP][GUEST] Port 
+ unavailable (
+), trying next port...
+virtualIp
+ReJmRs
+127.0.0.1:25565
+(SdDpY
+listen
+127.0.0.1:
+(SdDpW
+p2p:client-data-send
+(SdDpV
+p2p:client-socket-close
+(SdDpV
+p2p:stop-client-server
+(SdDpW
+(SdDpW
+(SdDpY
+p2p:host-start
+(SdDpX
+p2p:host-stop
+(SdDpW
+(SdDpY
+p2p:client-start
+(SdDpY
+Revzp@
+p2p:client-stop
+(SdDpY
+electron
+mqtt://broker.hivemq.com:1883
+wss://broker.hivemq.com:8884/mqtt
+mqtt://broker.emqx.io:1883
+wss://broker.emqx.io:8084/mqtt

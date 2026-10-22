@@ -1,0 +1,1195 @@
+__dirname
+require
+BrowserWindow
+ipcMain
+dialog
+express
+autoUpdater
+activateLicense
+validateLicense
+deactivateLicense
+getLicenseInfo
+upnpManager
+initP2pProxy
+serverProcesses
+cpuTracking
+appendServerLog
+mainWindow
+webDashboardServer
+currentDashboardState
+createWindow
+isPortableApp
+pendingPortableUpdate
+isDownloadingPortable
+compareVersions
+fetchLatestGitHubRelease
+runAppUpdateCheck
+downloadPortableUpdate
+installPortableUpdate
+migrateFromOldUserData
+isSafePath
+safePowerShell
+runCommand
+getPidsListeningOnPort
+autoAllowFirewall
+downloadFile
+RdF<rB
+findSteamCmd
+getStoragePath
+(Rh~(U
+POPULAR_MINECRAFT_PLUGINS
+findWinArgsFile
+resolveMinecraftServerDownload
+robustDownload
+resolveModrinthJar
+ensureMinecraftSkinMods
+parseMinecraftNBT
+parseSnbtToObj
+playitProc
+playitTunnelAddress
+playitClaimUrl
+fetchPlayitAddress
+timestamp
+getPath
+userData
+existsSync
+mkdirSync
+recursive
+(SdDpW
+evalmachine.<anonymous>
+ECONNRESET
+ECONNREFUSED
+ETIMEDOUT
+ENOTFOUND
+ERR_STREAM_DESTROYED
+socket hang up
+read ECONNRESET
+[Main Uncaught Exception]
+(SdDpW
+[Main Unhandled Rejection]
+(SdDpW
+isMinimized
+restore
+isVisible
+(SdDpW
+public
+static
+headers
+authorization
+Bearer 
+authToken
+timingSafeEqual
+Buffer
+Unauthorized: Invalid Token
+(SdDpW
+/api/status
+(SdDpW
+/api/start
+webContents
+remote:action
+action
+(SdDpW
+/api/stop
+(SdDpW
+/api/ini/:file
+@SdDpW
+listenerb
+params
+GameUserSettings.ini
+Game.ini
+Forbidden file access
+Main window closed
+remote:getIni
+removeListener
+remote:getIniResponse
+content
+(SdDpW
+headersSent
+Timeout waiting for INI
+(SdDpW
+Invalid content
+remote:saveIni
+(SdDpW
+/api/mods
+8SdDpW
+remote:getMods
+remote:getModsResponse
+(SdDpW
+Timeout waiting for modst 
+(SdDpW
+Invalid request
+remote:saveMods
+(SdDpW
+RcF)Q&
+listen
+127.0.0.1
+Express Web Dashboard listening on port 8080 (Localhost only)
+(SdDpW
+Web Dashboard failed to start (port in use or other error):
+(SdDpW
+Web Dashboard listen catch:
+startWebDashboard
+(SdDpW
+distIndex
+../assets/icon.png
+Rc2FE?
+height
+minWidth`
+minHeight
+backgroundColor
+#0f172a
+webPreferences
+titleBarStyle
+autoHideMenuBar
+preload
+contextIsolationG
+nodeIntegration
+sandbox
+webSecurity
+devToolsC
+preload.js
+window:minimize
+(SdDpW
+window:maximize
+isMaximized
+unmaximize
+(SdDpW
+window:close
+(SdDpW
+log-error
+homedir
+0RjFnbU#
+/Desktop/GameServerPro_CrashLog.txt
+appendFileSync
+(SdDpW
+../dist/index.html
+dist/index.html
+getAppPath
+loadURL
+http://localhost:3000
+openDevTools
+console-message
+[BROWSER CONSOLE] 
+(SdDpW
+loadFile
+Failed to load file:g
+(SdDpW
+before-input-event
+control
+preventDefault
+(SdDpW
+context-menu
+(SdDpW
+devtools-opened
+closeDevTools
+(SdDpW
+session
+webRequest
+onHeadersReceived
+responseHeaders
+default-src 'self';script-src 'self' 'unsafe-inline' 'unsafe-eval';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: blob: https://*.forgecdn.net https://*.curseforge.com https://media.forgecdn.net;connect-src 'self' https://*.googleapis.com https://*.firebaseio.com https://*.google.com https://api.curse.tools https://*.curseforge.com https://api.papermc.io https://api.purpurmc.org https://download.luckperms.net https://download.geysermc.org https://github.com https://*.githubusercontent.com;
+Content-Security-Policy
+(SdDpW
+will-navigate
+Rc>Fz.
+protocol
+(SdDpW
+isDestroyed
+license:revoked
+License revoked or expired
+(SdDpW
+(SdDpY
+setWindowOpenHandler
+https:
+openExternal
+Invalid URL:
+deny{8
+(SdDpV
+[Browser Console] 
+(SdDpW
+ready-to-show
+(SdDpW
+(SdDpW
+did-fail-load
+(SdDpW
+(SdDpW
+(SdDpW
+(SdDpW
+(SdDpY
+(SdDpY
+(SdDpY
+(SdDpY
+process
+PORTABLE_EXECUTABLE_FILE
+PORTABLE_EXECUTABLE_DIR
+temp\portable
+execPath
+(SdDpW
+(SdDpW
+(SdDpW
+@SdDpW
+User-Agent
+GameServerPro-App
+Accept
+text/yaml, application/json, text/plain, */*
+0SdDpW
+statusCode
+Failed to check updates (HTTP 
+(SdDpW
+(SdDpW
+https://github.com/PolarWoIF/gameserver-pro-releases/releases/latest/download/latest.ymlj
+getVersion
+[AutoUpdater] Checking for updates... Current: v
+, Portable: 
+updater:status
+checking
+currentVersion
+isPortable
+^version:\s*([^\r\n]+)
+Invalid release metadata format
+[AutoUpdater] New update found: v
+ (Current: v
+available
+version
+releaseNotesC
+updateAvailable
+[AutoUpdater] App is already up to date: v
+up-to-date
+[AutoUpdater] Check failed:
+checkForUpdates
+updateInfo
+cleanVersion
+Rd"iK*
+downloadUrl
+tempDest
+Already downloading
+https://github.com/PolarWoIF/gameserver-pro-releases/releases/download/v
+/GameServerPro-Portable-
+GameServerPro-Portable-
+[AutoUpdater] Downloading Portable update from: 
+[AutoUpdater] Saving to temp file: 
+@SdDpW
+request
+`SdDpW
+received
+lastPct
+lastTime
+lastBytes
+fileStream
+Download failed with HTTP 
+content-length
+createWriteStream
+downloading
+receivedBytes
+totalBytes
+(SdDpW
+finish
+tempPathC
+[AutoUpdater] Download completed successfully: 
+(SdDpW
+(SdDpW
+unlink
+(SdDpW
+(SdDpW
+(SdDpW
+No portable update ready to install
+dirname
+GameServerPro-Portable.exe
+GameServer Pro.exe
+[AutoUpdater] Executing in-place portable upgrade:
+   Source: 
+   Target: 
+Start-Sleep -Seconds 2
+$maxRetries = 20
+$retry = 0
+while ($retry -lt $maxRetries) {
+  try {
+    Move-Item -LiteralPath '
+' -Destination '
+' -Force -ErrorAction Stop
+    break
+  } catch {
+    Start-Sleep -Seconds 1
+    $retry++
+Start-Process -LiteralPath '
+Remove-Item -LiteralPath $MyInvocation.MyCommand.Path -Force -ErrorAction SilentlyContinue
+gsp_portable_updater.ps1
+writeFileSync
+child_process
+powershell.exe
+-NoProfile
+-WindowStyle
+Hidden
+-ExecutionPolicy
+Bypass
+ignore
+(SdDpW
+(SdDpW
+(SdDpW
+bytesPerSecond
+(SdDpW
+(SdDpW
+[AutoUpdater] electron-updater error:
+(SdDpW
+exePath
+(SdDpW
+(SdDpY
+ReN	`e
+downloadUpdate
+(SdDpY
+quitAndInstall
+(SdDpW
+gameserver-pro
+gameserverpro_storage.json
+.migrated_from_old
+readFileSync
+[Migration] Successfully migrated data from old userData folder.
+[Migration] Failed to migrate old data:
+(SdDpW
+(SdDpW
+activate
+getAllWindows
+(SdDpY
+(SdDpY
+SIGKILL
+platform
+taskkill /F /IM "PalServer-Win64-Shipping-Cmd.exe" /T 2>nul
+taskkill /F /IM "PalServer.exe" /T 2>nul
+4Rk"E;
+taskkill /F /IM "playit.exe" /T 2>nul
+pkill -9 -f "PalServer" 2>/dev/null
+pkill -9 -f "playit" 2>/dev/null
+darwin
+(SdDpW
+^\\\\(\?|\.)\\
+SystemRoot
+C:\Windows
+ReNack
+^[A-Za-z]:\\?$
+commandString
+@SdDpW
+stdout
+stderr
+-NonInteractive
+-Command`
+windowsHide
+(SdDpW
+(SdDpW
+(SdDpW
+(SdDpW
+options
+@SdDpW
+(SdDpW
+(SdDpW
+(SdDpW
+(SdDpW
+RbZ}BR
+LISTENING
+LISTEN
+basename
+New-NetFirewallRule -DisplayName ''GameServer Pro - 
+'' -Direction Inbound -Program '
+' -Action Allow -Profile Any -ErrorAction SilentlyContinue
+New-NetFirewallRule -DisplayName ''GameServer Pro - Port 
+ TCP'' -Direction Inbound -LocalPort 
+ -Protocol TCP -Action Allow -Profile Any -ErrorAction SilentlyContinue
+ UDP'' -Direction Inbound -LocalPort 
+ -Protocol UDP -Action Allow -Profile Any -ErrorAction SilentlyContinue
+0RjvR5
+C:\GameServerPro\jre21\bin\java.exe
+New-NetFirewallRule -DisplayName ''GameServer Pro - Java 21'' -Direction Inbound -Program '
+Start-Process powershell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -Command \"
+\"' -Verb RunAs
+(SdDpW
+progressEvent
+destPath
+HSdDpW
+(SdDpW
+8SdDpV
+urlStr
+Re*\|E
+redirectCount
+Too many redirects
+GameServerPro/1.0 (Windows NT 10.0; Win64; x64)
+8SdDpW
+Server returned status 
+(SdDpW
+(SdDpW
+(SdDpW
+(SdDpW
+C:\SteamCMD\steamcmd.exe
+$Rg>;2
+C:\steamcmd\steamcmd.exea
+SteamCMD
+steamcmd.exe
+steamcmd
+(SdDpW
+/usr/games/steamcmd
+/usr/bin/steamcmd
+RcvJ*,
+.local
+steamcmd.sh
+.steam
+(SdDpW
+showOpenDialog
+properties
+openDirectory
+canceled
+filePaths
+(SdDpY
+openFile
+filters
+All Files
+extensions
+(SdDpY
+showSaveDialog
+defaultPath
+ModPreset.gspmod
+GameServer Pro Mod Pack (*.gspmod)
+gspmod
+JSON File (*.json)
+filePath
+(SdDpX
+networkInterfaces
+family
+internal
+hamachi
+radmin
+address
+Radmin VPN
+virtualbox
+vmware
+192.168.56.
+Rc.zhZ
+169.254.
+192.168.
+(SdDpY
+getPublicIP
+(SdDpY
+openPort
+success
+(SdDpY
+closePort
+(SdDpY
+networkEngine
+runFullDiagnostics
+(SdDpY
+getGlobalIPv6Addresses
+(SdDpY
+getVirtualVpnAddresses
+(SdDpY
+(SdDpY
+Access denied: unsafe file path.
+(SdDpY
+(SdDpW
+(SdDpY
+(SdDpY
+returnValue
+(SdDpW
+(SdDpW
+(SdDpY
+resolved`
+Access denied: cannot delete system or root directory.
+USERPROFILE
+desktop
+documents
+downloads
+pictures
+videos
+appdata
+ProgramFiles
+C:\Program Files
+ProgramFiles(x86)
+C:\Program Files (x86)
+(SdDpW
+Access denied: protected system or user directory.
+promises
+(SdDpY
+readdirSync
+withFileTypes
+isDirectory
+(SdDpW
+(SdDpY
+openPathu 
+(SdDpY
+https://
+http://
+(SdDpY
+C:\SteamCMD
+,Rivu`
+Invalid installation directory
+RdV3p%
+steamcmd.zip
+https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip
+steamcmd:progress
+steamcmd:downloadPct
+extracting
+Expand-Archive -Path '
+' -DestinationPath '
+' -Force
+Extraction failed
+unlinkSync
+steamCmdPathC
+steamcmd_linux.tar.gz
+https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+chmodSync
+(SdDpY
+(SdDpY
+@SdDpX
+installPath
+serverId
+gameTypeb
+Access denied: invalid installation path.
+server:installProgress
+server:installProgressPct
+\steamcmd.exe
+starting
+2394010
+2430930
+ark_se
+376030
+223350
+258550
++force_install_dir
++login
++@sSteamCmdForcePlatformType
+windows
++app_update
+100.00%
+progress: 100
+(\d+\.\d+)%
+progress:\s*(\d+\.\d+)
+(SdDpW
+(SdDpW
+0SdDpW
+ShooterGame
+Binaries
+ArkAscendedServer.exe
+ShooterGameServer.exe
+DayZServer_x64.exe
+RustDedicated.exe
+PalServer.exe
+ArkAscendedServer
+ RfvJ3[
+ShooterGameServer
+DayZServer
+RustDedicated
+PalServer.sha
+(SdDpW
+(SdDpW
+hasJava
+majorVersion`*
+isModernG
+-version
+version\s*["']?(\d+)(?:\.(\d+))?
+versionText
+Java Installed
+(SdDpY
+C:\GameServerPro\jre21
+C:\GameServerPro\jre21.zip
+C:\GameServerPro\jre21_temp
+https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_x64_windows_hotspot_21.0.12.1_1.zip
+java.exe
+C:\GameServerPro
+rmSync
+execSync
+tar -xf "
+" -C "
+renameSync
+(SdDpY
+findIn
+libraries
+isFile
+win_args.txt
+args.txt
+relative
+(SdDpW
+cleanVer`
+Custom Minecraft Jar
+isInstaller
+1.21.4
+purpur
+fabric
+fetchJson
+https://meta.fabricmc.net/v2/versions/loader/
+loader
+0.16.10
+/server/jar
+Fabric 
+ (Loader 
+/0.19.3/1.0.1/server/jar`R
+neoforge
+21.4.103-beta
+1.21.3
+21.3.56-beta
+1.21.1
+21.1.125
+21.0.167
+1.20.6
+20.6.119
+1.20.4
+20.4.237
+1.20.2
+20.2.86
+https://maven.neoforged.net/releases/net/neoforged/neoforge/
+/neoforge-
+-installer.jar
+Rdf1Kn	
+NeoForge 
+1.20.4-49.0.38
+1.20.2-48.1.0
+1.20.1
+1.20.1-47.3.0
+1.20-46.0.14
+1.19.4
+1.19.4-45.2.0
+1.19.3
+1.19.3-44.1.23
+1.19.2
+1.19.2-43.3.0
+1.19.1
+1.19.1-42.0.9
+1.19-41.1.0
+1.18.2
+1.18.2-40.2.0
+1.18.1
+1.18.1-39.1.0
+1.18-38.0.17
+1.17.1
+1.17.1-37.1.1
+1.16.5
+1.16.5-36.2.39
+1.16.4
+1.16.4-35.1.37
+1.16.3
+1.16.3-34.1.42
+1.15.2
+1.15.2-31.2.57
+1.14.4
+1.14.4-28.2.26
+1.13.2
+1.13.2-25.0.223
+1.12.2
+1.12.2-14.23.5.2860
+1.12.1
+1.12.1-14.22.1.2485
+1.12-14.21.1.2443
+1.11.2
+1.11.2-13.20.1.2588
+1.10.2
+1.10.2-12.18.3.2511
+1.9.4-12.17.0.2051
+1.8.9-11.15.1.2318-1.8.9
+1.8.8-11.14.4.1577
+1.8-11.14.4.1495
+1.7.10
+1.7.10-10.13.4.1614-1.7.10
+-latest
+https://maven.minecraftforge.net/net/minecraftforge/forge/
+/forge-
+Forge 
+https://api.purpurmc.org/v2/purpur/
+/latest/download
+Purpur 
+https://piston-meta.mojang.com/mc/game/version_manifest_v2.json
+versions
+(SdDpW
+server
+Vanilla 
+Minecraft 
+spawnSync
+curl.exe
+statSync
+https://api.modrinth.com/v2/project/
+/version?game_versions=["
+"]&loaders=["
+/version?loaders=["
+majorMinor
+game_versions
+(SdDpW
+(SdDpW
+(SdDpW
+fabric-api.jar
+skinrestorer.jar
+fabric-api
+https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar
+(SdDpW
+skinrestorer
+https://cdn.modrinth.com/data/ghrZDhGW/versions/kLxwqV0H/skinrestorer-2.10.0%2B1.21.11-fabric.jar
+(SdDpW
+config
+config.json
+command
+enabled
+permissionLevel
+targetsPermissionLevel
+storage
+refreshSkin
+skipRefreshProviders
+applyDelay
+autoFetch
+overrideExistingH
+providers
+mojang
+ely_by
+timeout
+userAgent
+duration`x
+ely.by
+mineskin
+apiKey
+Re*km=
+proxyUrlUpload
+allowedDomains
+spigot
+SkinsRestorer.jar
+skinsrestorer
+https://github.com/SkinsRestorer/SkinsRestorer/releases/download/15.4.2/SkinsRestorer.jar
+(SdDpW
+(SdDpW
+Error auto-installing skin mods:
+8SdDpX
+customUrl
+Rb*8:/
+Rc&(iI
+rconPort
+onlineMode
+server.jar
+javaExe
+installer.jar
+8SdDpW
+--installServer
+Extracting
+Downloading
+RdbOfE
+Processor:
+(SdDpW
+(SdDpW
+(SdDpW
+forge-
+installer
+(SdDpW
+copyFileSync
+user_jvm_args.txt
+# JVM Flags generated by GameServer Pro
+-Xms4G
+-Xmx4G
+-XX:+UseG1GC
+-XX:+ParallelRefProcEnabled
+$RgN \@
+-XX:MaxGCPauseMillis=200
+-XX:+UnlockExperimentalVMOptions
+-XX:+DisableExplicitGC
+-XX:+AlwaysPreTouch
+-XX:G1NewSizePercent=30
+-XX:G1MaxNewSizePercent=40
+-XX:G1ReservePercent=20
+-XX:G1HeapWastePercent=5
+-XX:G1MixedGCCountTarget=4
+4RkbfFi%
+-XX:InitiatingHeapOccupancyPercent=15
+-XX:G1MixedGLiveThresholdPercent=90
+-XX:G1RSetUpdatingPauseTimePercent=5
+-XX:SurvivorRatio=32
+-XX:+PerfDisableSharedMem
+-XX:MaxTenuringThreshold=1
+installer.jar.log
+eula.txt
+eula=true
+server.properties
+#Minecraft Server Properties
+#Generated by GameServer Pro`
+enable-rcon=true`
+rcon.password=admin123
+max-players=20
+enforce-secure-profile=false
+prevent-proxy-connections=false
+(RhfQT
+pause-when-empty-seconds=-1
+max-tick-time=-1
+view-distance=7
+simulation-distance=5
+sync-chunk-writes=false
+network-compression-threshold=256
+difficulty=easy
+gamemode=survival
+pvp=true
+server-port=
+rcon.port=
+0RjfEh
+A GameServer Pro Minecraft Server
+online-mode=
+level-seed=
+^level-seed=.*$
+level-seed=
+.jar.disabled
+.disabled
+\.disabled$
+\.jar$
+fileNameC
+sizeMB
+folder
+(SdDpY
+pluginKey
+customName
+Invalid path
+.fabric
+fabricmc
+minecraftforge
+neoforged
+skinrestorer.jar + fabric-api.jar
+Unknown or invalid plugin
+(SdDpX
+Invalid filename
+File not found
+newFileName
+(SdDpX
+(SdDpX
+subFolder
+(SdDpX
+Inventory:\s*\[(.*?)\](?=,\s*[a-zA-Z0-9_]+:|\s*\}$)
+EnderItems:\s*\[(.*?)\](?=,\s*[a-zA-Z0-9_]+:|\s*\}$)
+Health:\s*([0-9.]+)
+foodLevel:\s*(\d+)
+XpLevel:\s*(\d+)
+Dimension:\s*"(.*?)"
+Pos:\s*\[\s*([0-9.-]+)[a-zA-Z]*,\s*([0-9.-]+)[a-zA-Z]*,\s*([0-9.-]+)[a-zA-Z]*\s*\]
+\{([^}]+)\}
+Slot:\s*(-?\d+)
+ReB9.k
+id:\s*"(.*?)"
+count:\s*(\d+)
+Count:\s*(\d+)
+minecraft:air
+^minecraft:
+(SdDpW
+parseItemArray
+overworld
+helmet
+chestplate
+leggingsF
+RcF`s!
+health
+xpLevel
+dimension
+inventory
+enderChest
+offhand
+0SdDpY
+uuidToName
+rcon-client
+connect
+password
+admin123
+(SdDpW
+data get entity 
+C:\GameServerPro\Minecraft\My_Minecraft_Server\usercache.json
+usercache.json
+(SdDpW
+(SdDpW
+C:\GameServerPro\Minecraft\My_Minecraft_Server\world\playerdata
+playerdata
+world_nether
+(SdDpW
+(SdDpW
+\.dat$
+Health
+foodLevel
+XpLevel
+Dimension
+minecraft:overworld
+Inventory
+EnderItems
+(SdDpW
+Failed to get disk playerdata:
+nether
+the_end
+Invalid dimension specified. Use nether or end.
+Dimension folder does not exist or was already clean.
+Successfully reset 
+ dimension!
+(SdDpX
+0SdDpX
+Rc^t"7
+netstat
+taskkill.exe
+Rb~YG7
+paper.yml
+purpur.yml
+network-compression-threshold=-1
+^network-compression-threshold=.*$
+@user_jvm_args.txt
+\.(bat|cmd)$
+GameServer Pro - 
+server:upnpStatus
+(SdDpW
+(SdDpW
+C:\SteamCMD\playit.exe
+playit
+tunnel:status
+running
+(SdDpW
+(SdDpW
+/usr/bin/wine
+/usr/local/bin/wine
+(Get-Process -Id 
+ -ErrorAction SilentlyContinue).PriorityClass = [System.Diagnostics.ProcessPriorityClass]::High
+server:log
+(SdDpW
+(SdDpW
+server:stopped
+(SdDpW
+(SdDpW
+rconPassword
+palworld
+DoExit
+save-all
+(SdDpW
+isPidRunning`
+(SdDpW
+(SdDpX
+(SdDpX
+(SdDpY
+Get-Process -Id 
+ -ErrorAction SilentlyContinue | Select-Object -First 1 | Select-Object Id, WorkingSet64, CPU | ConvertTo-Json
+WorkingSet64
+lastTimeMs
+lastCpuSecs
+%cpu,rss
+--no-headers
+process not found
+cpuPct
+(SdDpX
+Access denied: unsafe path.
+ShooterGame.log
+minecraft
+latest.log
+profiles
+DayZServer_x64.ADM
+my_server
+Log.EAC.txt
+PalServer.log
+(SdDpX
+backupPath
+serverName
+Access denied: invalid backup path.
+SavedArks
+mpmissions
+SaveGames
+Server
+[^a-zA-Z0-9_\-\u0600-\u06FF]
+_Backup_
+tar.exe
+Compress-Archive -Path '
+\*' -DestinationPath '
+(SdDpX
+totalmem
+freemem
+Unknown
+totalRamGB
+freeRamGB
+cpuModelC
+cpuCoresC
+(SdDpY
+Start-Process powershell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -Command \"New-NetFirewallRule -DisplayName ''GameServer Pro UDP'' -Direction Inbound -LocalPort 7777,27015,27020,25565,25575,8211 -Protocol UDP -Action Allow; New-NetFirewallRule -DisplayName ''GameServer Pro TCP'' -Direction Inbound -LocalPort 27020,25565,25575 -Protocol TCP -Action Allow; Write-Host ''Done''\"' -Verb RunAs
+Failed to fix firewall
+25565/tcp
+25565/udp
+8211/udp
+7777/udp
+(SdDpY
+playitExe
+0SdDpW
+" tunnels list
+tunnels
+assigned_domain
+assigned_srv
+ip_hostname
+port_start
+(SdDpW
+playit.exe
+playitUrl
+https://github.com/playit-cloud/playit-agent/releases/download/v0.15.26/playit-windows-x86_64.exe
+8SdDpW
+Curl failed with code 
+(SdDpW
+[Playit.gg]
+(https:\/\/playit\.gg\/claim\/[a-zA-Z0-9_-]+)
+claim_required
+claimUrlC
+([a-zA-Z0-9._-]+\.(?:joinmc\.link|playit\.gg|ply\.gg)(?::\d+)?)
+0 tunnels
+no tunnels
+Invalid secret
+(SdDpY
+[Playit.gg Error]
+(SdDpW
+stopped
+(SdDpW
+(SdDpY
+(SdDpY
+(SdDpY
+0SdDpY
+cleanId
+Invalid Mod ID
+8SdDpW
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) GameServerPro/1.0.0
+https://api.curse.tools/v1/mods/
+0SdDpW
+rawData
+(SdDpW
+No data
+Parse error
+(SdDpW
+(SdDpW
+Rcb{Dt
+destroy
+Timeout
+(SdDpW
+0SdDpY
+8SdDpW
+querystring
+itemcount
+publishedfileids[0]
+https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/
+method
+Content-Type
+application/x-www-form-urlencoded
+Content-Length
+0SdDpW
+(SdDpW
+response
+publishedfiledetails
+result
+summary
+preview_url
+Steam Workshop Item
+Mod not found on Steam Workshop
+(SdDpW
+(SdDpW
+(SdDpW
+ RfNV!
+Failed to write log:
+electron
+RcB}C?
+pidusage
+electron-updater
+./license
+./upnp
+getPrimaryLocalIP
+./p2pEngineProxy
+./antiTamper
+initAntiDebugTrap
+verifyRuntimeIntegrity
+ Rfv6"
+uncaughtException
+unhandledRejection
+requestSingleInstanceLock
+second-instance
+NODE_ENV
+development
+isOnlineH
+players
+maxPlayers
+randomBytes
+remote:updateState
+setApplicationMenu
+handle
+license:activate
+license:validate
+license:deactivate
+license:info
+autoDownload
+autoInstallOnAppQuit
+update-available
+update-not-available
+download-progress
+ Rfj/9
+update-downloaded
+updater:getInfo
+updater:check
+updater:download
+updater:install
+whenReady
+window-all-closed
+dialog:openFolder
+dialog:openFile
+dialog:saveFile
+system:getLocalIPs
+system:getPublicIP
+upnp:openPort
+upnp:closePort
+network:diagnose
+network:getGlobalIPv6
+network:getVirtualVpnAddresses
+fs:readFile
+fs:writeFile
+store:get
+store:set
+store:getSync
+store:setSync
+fs:exists
+fs:rmDir
+fs:listDir
+shell:openPath
+shell:openExternal
+steamcmd:download
+steamcmd:check
+server:install
+essentialsx
+EssentialsX
+https://github.com/EssentialsX/Essentials/releases/download/2.20.1/EssentialsX-2.20.1.jar
+EssentialsX.jar
+luckperms
+LuckPerms
+https://download.luckperms.net/1572/bukkit/loader/LuckPerms-Bukkit-5.4.148.jar
+LuckPerms.jar
+worldedit
+Rdvy`)	
+WorldEdit
+https://mediafilez.forgecdn.net/files/5465/327/worldedit-bukkit-7.3.0.jar
+WorldEdit.jar
+https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar
+Vault.jar
+geysermc
+GeyserMC (Bedrock Crossplay)
+https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot
+Geyser-Spigot.jar
+floodgate
+Floodgate
+https://download.geysermc.org/v2/projects/floodgate/versions/latest/builds/latest/downloads/spigot
+floodgate-spigot.jar
+viaversion
+ViaVersion
+https://github.com/ViaVersion/ViaVersion/releases/download/5.2.1/ViaVersion-5.2.1.jar
+ViaVersion.jar
+SkinsRestorer
+minecraft:checkJava
+minecraft:downloadJava
+minecraft:install
+minecraft:getPlugins
+minecraft:installPlugin
+minecraft:togglePlugin
+minecraft:deletePlugin
+minecraft:openFolder
+./minecraftNbt
+minecraft:getPlayerData
+minecraft:resetDimension
+server:start
+server:stop
+server:status
+server:listRunning
+server:getMetrics
+server:readLog
+server:backup
+system:info
+system:fixFirewall
+tunnel:start
+tunnel:stop
+Rdn	jJ
+tunnel:get
+mods:fetchCurseForge
+$RgZ"N
+mods:fetchSteamWorkshop
+./security
+./rcon
